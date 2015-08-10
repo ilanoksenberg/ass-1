@@ -1,0 +1,29 @@
+[
+
+  {
+    "id": 1,
+    "name": "The Hobbit",
+    "author": "J.R.R Tolkien",
+    "bestStarReviews": 5
+  },
+  {
+    "id": 2,
+    "name": "The Fellowship of the Ring",
+    "author": "J.R.R Tolkien",
+    "bestStarReviews": 3
+  },
+  {
+    "id": 3,
+    "name": "The Two Towers",
+    "author": "J.R.R Tolkien",
+    "bestStarReviews": 4
+  },
+  {
+    "id": 4,
+    "name": "The Return of the King",
+    "author": "J.R.R Tolkien",
+    "bestStarReviews": 5
+  }
+
+]
+
